@@ -17,9 +17,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:LastAuthor>Yoelek, Sarah</o:LastAuthor>
   <o:Revision>2</o:Revision>
   <o:LastPrinted>2025-11-30T16:32:00Z</o:LastPrinted>
-  <o:Created>2025-11-30T20:21:00Z</o:Created>
-  <o:LastSaved>2025-11-30T20:21:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
+  <o:Created>2025-11-30T20:33:00Z</o:Created>
+  <o:LastSaved>2025-11-30T20:33:00Z</o:LastSaved>
+  <o:Pages>14</o:Pages>
   <o:Words>5992</o:Words>
   <o:Characters>34161</o:Characters>
   <o:Lines>284</o:Lines>
@@ -3673,18 +3673,16 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l21
-	{mso-list-id:1035427244;
+	{mso-list-id:914700819;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-411137336 1668447422 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
+	mso-list-template-ids:2056140258 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
 @list l21:level1
-	{mso-level-start-at:0;
-	mso-level-number-format:bullet;
-	mso-level-text:-;
+	{mso-level-number-format:bullet;
+	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";}
+	font-family:Symbol;}
 @list l21:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
@@ -3742,16 +3740,18 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l22
-	{mso-list-id:1067656035;
+	{mso-list-id:1035427244;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-1729591636 -924792460 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+	mso-list-template-ids:-411137336 1668447422 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
 @list l22:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:;
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:-;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:Symbol;}
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
 @list l22:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
@@ -3809,12 +3809,12 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l23
-	{mso-list-id:1086877922;
+	{mso-list-id:1067656035;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-1362492460 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
+	mso-list-template-ids:-1729591636 -924792460 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
 @list l23:level1
 	{mso-level-number-format:bullet;
-	mso-level-text:;
+	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
@@ -3876,56 +3876,123 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l24
+	{mso-list-id:1086877922;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1362492460 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
+@list l24:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l24:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l24:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l24:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l24:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l24:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l24:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l24:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l24:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l25
 	{mso-list-id:1109160771;
 	mso-list-type:hybrid;
 	mso-list-template-ids:-1207536564 134676495 134676505 134676507 134676495 134676505 134676507 134676495 134676505 134676507;}
-@list l24:level1
+@list l25:level1
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l24:level2
+@list l25:level2
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l24:level3
+@list l25:level3
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
-@list l24:level4
+@list l25:level4
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l24:level5
+@list l25:level5
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l24:level6
+@list l25:level6
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
-@list l24:level7
+@list l25:level7
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l24:level8
+@list l25:level8
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l24:level9
+@list l25:level9
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
-@list l25
+@list l26
 	{mso-list-id:1120994710;
 	mso-list-type:hybrid;
 	mso-list-template-ids:-1907207276 549062938 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
-@list l25:level1
+@list l26:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
 	mso-level-text:;
@@ -3935,116 +4002,116 @@ div.WordSection3
 	font-family:Wingdings;
 	mso-fareast-font-family:"Times New Roman";
 	mso-bidi-font-family:"Times New Roman";}
-@list l25:level2
+@list l26:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l25:level3
+@list l26:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l25:level4
+@list l26:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l25:level5
+@list l26:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l25:level6
+@list l26:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l25:level7
+@list l26:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l25:level8
+@list l26:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l25:level9
+@list l26:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l26
+@list l27
 	{mso-list-id:1196625501;
 	mso-list-type:hybrid;
 	mso-list-template-ids:1487058554 -204171670 134676505 134676507 134676495 134676505 134676507 134676495 134676505 134676507;}
-@list l26:level1
+@list l27:level1
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	mso-ansi-font-size:12.0pt;
 	mso-bidi-font-size:12.0pt;
 	font-family:"Times New Roman",serif;}
-@list l26:level2
+@list l27:level2
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l26:level3
+@list l27:level3
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
-@list l26:level4
+@list l27:level4
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l26:level5
+@list l27:level5
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l26:level6
+@list l27:level6
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
-@list l26:level7
+@list l27:level7
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l26:level8
+@list l27:level8
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l26:level9
+@list l27:level9
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
-@list l27
+@list l28
 	{mso-list-id:1268075211;
 	mso-list-type:hybrid;
 	mso-list-template-ids:1200911690 -1563389466 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
-@list l27:level1
+@list l28:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
 	mso-level-text:-;
@@ -4054,7 +4121,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:"Times New Roman";}
-@list l27:level2
+@list l28:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
@@ -4062,7 +4129,7 @@ div.WordSection3
 	margin-left:126.0pt;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l27:level3
+@list l28:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
@@ -4070,7 +4137,7 @@ div.WordSection3
 	margin-left:162.0pt;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l27:level4
+@list l28:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
@@ -4078,7 +4145,7 @@ div.WordSection3
 	margin-left:198.0pt;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l27:level5
+@list l28:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
@@ -4086,7 +4153,7 @@ div.WordSection3
 	margin-left:234.0pt;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l27:level6
+@list l28:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
@@ -4094,7 +4161,7 @@ div.WordSection3
 	margin-left:270.0pt;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l27:level7
+@list l28:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
@@ -4102,7 +4169,7 @@ div.WordSection3
 	margin-left:306.0pt;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l27:level8
+@list l28:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
@@ -4110,7 +4177,7 @@ div.WordSection3
 	margin-left:342.0pt;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l27:level9
+@list l28:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
@@ -4118,77 +4185,10 @@ div.WordSection3
 	margin-left:378.0pt;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l28
+@list l29
 	{mso-list-id:1268922545;
 	mso-list-type:hybrid;
 	mso-list-template-ids:849001850 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
-@list l28:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l28:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l28:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l28:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l28:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l28:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l28:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l28:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l28:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l29
-	{mso-list-id:1336345249;
-	mso-list-type:hybrid;
-	mso-list-template-ids:628129118 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
 @list l29:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:;
@@ -4253,10 +4253,77 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l30
+	{mso-list-id:1336345249;
+	mso-list-type:hybrid;
+	mso-list-template-ids:628129118 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
+@list l30:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l30:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l30:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l30:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l30:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l30:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l30:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l30:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l30:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l31
 	{mso-list-id:1364475829;
 	mso-list-type:hybrid;
 	mso-list-template-ids:2134145572 795500830 628531656 -414445092 2012796666 -1271468796 851461048 1228965970 1122660908 1986976176;}
-@list l30:level1
+@list l31:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:•;
 	mso-level-tab-stop:36.0pt;
@@ -4264,7 +4331,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:"Arial",sans-serif;
 	mso-bidi-font-family:"Times New Roman";}
-@list l30:level2
+@list l31:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:•;
 	mso-level-tab-stop:72.0pt;
@@ -4272,7 +4339,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:"Arial",sans-serif;
 	mso-bidi-font-family:"Times New Roman";}
-@list l30:level3
+@list l31:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:•;
 	mso-level-tab-stop:108.0pt;
@@ -4280,7 +4347,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:"Arial",sans-serif;
 	mso-bidi-font-family:"Times New Roman";}
-@list l30:level4
+@list l31:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:•;
 	mso-level-tab-stop:144.0pt;
@@ -4288,7 +4355,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:"Arial",sans-serif;
 	mso-bidi-font-family:"Times New Roman";}
-@list l30:level5
+@list l31:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:•;
 	mso-level-tab-stop:180.0pt;
@@ -4296,7 +4363,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:"Arial",sans-serif;
 	mso-bidi-font-family:"Times New Roman";}
-@list l30:level6
+@list l31:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:•;
 	mso-level-tab-stop:216.0pt;
@@ -4304,7 +4371,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:"Arial",sans-serif;
 	mso-bidi-font-family:"Times New Roman";}
-@list l30:level7
+@list l31:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:•;
 	mso-level-tab-stop:252.0pt;
@@ -4312,7 +4379,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:"Arial",sans-serif;
 	mso-bidi-font-family:"Times New Roman";}
-@list l30:level8
+@list l31:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:•;
 	mso-level-tab-stop:288.0pt;
@@ -4320,7 +4387,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:"Arial",sans-serif;
 	mso-bidi-font-family:"Times New Roman";}
-@list l30:level9
+@list l31:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:•;
 	mso-level-tab-stop:324.0pt;
@@ -4328,81 +4395,12 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:"Arial",sans-serif;
 	mso-bidi-font-family:"Times New Roman";}
-@list l31
+@list l32
 	{mso-list-id:1375887227;
 	mso-list-type:hybrid;
 	mso-list-template-ids:641088098 -2016905990 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
-@list l31:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:-;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";}
-@list l31:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l31:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l31:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l31:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l31:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l31:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l31:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l31:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l32
-	{mso-list-id:1391685943;
-	mso-list-type:hybrid;
-	mso-list-template-ids:1122906926 328115408 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
 @list l32:level1
-	{mso-level-start-at:0;
-	mso-level-number-format:bullet;
+	{mso-level-number-format:bullet;
 	mso-level-text:-;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
@@ -4466,58 +4464,127 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l33
-	{mso-list-id:1402871609;
+	{mso-list-id:1391685943;
 	mso-list-type:hybrid;
-	mso-list-template-ids:980587940 134676481 134676505 134676507 134676495 134676505 134676507 134676495 134676505 134676507;}
+	mso-list-template-ids:1122906926 328115408 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
 @list l33:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+@list l33:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l33:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l33:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l33:level2
-	{mso-level-number-format:alpha-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l33:level3
-	{mso-level-number-format:roman-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:right;
-	text-indent:-9.0pt;}
-@list l33:level4
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
 @list l33:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l33:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l33:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l33:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l33:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l34
+	{mso-list-id:1402871609;
+	mso-list-type:hybrid;
+	mso-list-template-ids:980587940 134676481 134676505 134676507 134676495 134676505 134676507 134676495 134676505 134676507;}
+@list l34:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l34:level2
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l33:level6
+@list l34:level3
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
-@list l33:level7
+@list l34:level4
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l33:level8
+@list l34:level5
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l33:level9
+@list l34:level6
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
-@list l34
+@list l34:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l34:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l34:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l35
 	{mso-list-id:1406028294;
 	mso-list-template-ids:-1960376;}
-@list l34:level1
+@list l35:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:36.0pt;
@@ -4525,7 +4592,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
-@list l34:level2
+@list l35:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:72.0pt;
@@ -4534,7 +4601,7 @@ div.WordSection3
 	mso-ansi-font-size:10.0pt;
 	font-family:"Courier New";
 	mso-bidi-font-family:"Times New Roman";}
-@list l34:level3
+@list l35:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:108.0pt;
@@ -4542,7 +4609,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l34:level4
+@list l35:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:144.0pt;
@@ -4550,7 +4617,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l34:level5
+@list l35:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:180.0pt;
@@ -4558,7 +4625,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l34:level6
+@list l35:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:216.0pt;
@@ -4566,7 +4633,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l34:level7
+@list l35:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:252.0pt;
@@ -4574,7 +4641,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l34:level8
+@list l35:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:288.0pt;
@@ -4582,7 +4649,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l34:level9
+@list l35:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:324.0pt;
@@ -4590,78 +4657,78 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l35
+@list l36
 	{mso-list-id:1409963911;
 	mso-list-type:hybrid;
 	mso-list-template-ids:1164898022 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
-@list l35:level1
+@list l36:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l35:level2
+@list l36:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l35:level3
+@list l36:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l35:level4
+@list l36:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l35:level5
+@list l36:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l35:level6
+@list l36:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l35:level7
+@list l36:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l35:level8
+@list l36:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l35:level9
+@list l36:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l36
+@list l37
 	{mso-list-id:1418092355;
 	mso-list-type:hybrid;
 	mso-list-template-ids:-1259187094 -454248800 134676505 134676507 134676495 134676505 134676507 134676495 134676505 134676507;}
-@list l36:level1
+@list l37:level1
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
@@ -4669,125 +4736,55 @@ div.WordSection3
 	font-family:"Times New Roman",serif;
 	color:windowtext;
 	mso-ansi-font-weight:normal;}
-@list l36:level2
-	{mso-level-number-format:alpha-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l36:level3
-	{mso-level-number-format:roman-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:right;
-	text-indent:-9.0pt;}
-@list l36:level4
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l36:level5
-	{mso-level-number-format:alpha-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l36:level6
-	{mso-level-number-format:roman-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:right;
-	text-indent:-9.0pt;}
-@list l36:level7
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l36:level8
-	{mso-level-number-format:alpha-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l36:level9
-	{mso-level-number-format:roman-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:right;
-	text-indent:-9.0pt;}
-@list l37
-	{mso-list-id:1440180462;
-	mso-list-type:hybrid;
-	mso-list-template-ids:-2113105732 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
-@list l37:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
 @list l37:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
+	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
+	text-indent:-18.0pt;}
 @list l37:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:;
+	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
 @list l37:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
+	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
+	text-indent:-18.0pt;}
 @list l37:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
+	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
+	text-indent:-18.0pt;}
 @list l37:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:;
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l37:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l37:level8
+	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l37:level7
+	text-indent:-18.0pt;}
+@list l37:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l38
+	{mso-list-id:1422413428;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1383381518 67698689 -1 -1 -1 -1 -1 -1 -1 -1;}
+@list l38:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l37:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l37:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l38
-	{mso-list-id:1590233803;
-	mso-list-type:hybrid;
-	mso-list-template-ids:1927159842 -1431558582 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
-@list l38:level1
-	{mso-level-start-at:0;
-	mso-level-number-format:bullet;
-	mso-level-text:•;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;}
 @list l38:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
@@ -4845,15 +4842,14 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l39
-	{mso-list-id:1608270841;
+	{mso-list-id:1440180462;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-398194264 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
+	mso-list-template-ids:-2113105732 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
 @list l39:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	margin-left:72.0pt;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
 @list l39:level2
@@ -4861,7 +4857,6 @@ div.WordSection3
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	margin-left:108.0pt;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
 @list l39:level3
@@ -4869,7 +4864,6 @@ div.WordSection3
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	margin-left:144.0pt;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l39:level4
@@ -4877,7 +4871,6 @@ div.WordSection3
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	margin-left:180.0pt;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
 @list l39:level5
@@ -4885,7 +4878,6 @@ div.WordSection3
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	margin-left:216.0pt;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
 @list l39:level6
@@ -4893,7 +4885,6 @@ div.WordSection3
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	margin-left:252.0pt;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l39:level7
@@ -4901,7 +4892,6 @@ div.WordSection3
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	margin-left:288.0pt;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
 @list l39:level8
@@ -4909,7 +4899,6 @@ div.WordSection3
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	margin-left:324.0pt;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
 @list l39:level9
@@ -4917,23 +4906,22 @@ div.WordSection3
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	margin-left:360.0pt;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l40
-	{mso-list-id:1621765124;
+	{mso-list-id:1590233803;
 	mso-list-type:hybrid;
-	mso-list-template-ids:1811058384 -1899041498 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
+	mso-list-template-ids:1927159842 -1431558582 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
 @list l40:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:;
+	mso-level-text:•;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:Wingdings;
-	mso-fareast-font-family:"Times New Roman";
-	mso-bidi-font-family:"Times New Roman";}
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
 @list l40:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
@@ -4991,14 +4979,15 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l41
-	{mso-list-id:1632706012;
+	{mso-list-id:1608270841;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-732918846 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
+	mso-list-template-ids:-398194264 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
 @list l41:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
+	margin-left:72.0pt;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
 @list l41:level2
@@ -5006,6 +4995,7 @@ div.WordSection3
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
+	margin-left:108.0pt;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
 @list l41:level3
@@ -5013,6 +5003,7 @@ div.WordSection3
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
+	margin-left:144.0pt;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l41:level4
@@ -5020,6 +5011,7 @@ div.WordSection3
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
+	margin-left:180.0pt;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
 @list l41:level5
@@ -5027,6 +5019,7 @@ div.WordSection3
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
+	margin-left:216.0pt;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
 @list l41:level6
@@ -5034,6 +5027,7 @@ div.WordSection3
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
+	margin-left:252.0pt;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l41:level7
@@ -5041,6 +5035,7 @@ div.WordSection3
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
+	margin-left:288.0pt;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
 @list l41:level8
@@ -5048,6 +5043,7 @@ div.WordSection3
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
+	margin-left:324.0pt;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
 @list l41:level9
@@ -5055,92 +5051,90 @@ div.WordSection3
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
+	margin-left:360.0pt;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l42
-	{mso-list-id:1645045196;
+	{mso-list-id:1621765124;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-3343776 -929103902 342682516 1126449124 1619962342 1569862658 -1241467472 -1797343548 -307232688 1561900488;}
+	mso-list-template-ids:1811058384 -1899041498 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
 @list l42:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:•;
-	mso-level-tab-stop:36.0pt;
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Arial",sans-serif;
+	font-family:Wingdings;
+	mso-fareast-font-family:"Times New Roman";
 	mso-bidi-font-family:"Times New Roman";}
 @list l42:level2
 	{mso-level-number-format:bullet;
-	mso-level-text:•;
-	mso-level-tab-stop:72.0pt;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Arial",sans-serif;
-	mso-bidi-font-family:"Times New Roman";}
+	font-family:"Courier New";}
 @list l42:level3
 	{mso-level-number-format:bullet;
-	mso-level-text:•;
-	mso-level-tab-stop:108.0pt;
+	mso-level-text:;
+	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Arial",sans-serif;
-	mso-bidi-font-family:"Times New Roman";}
+	font-family:Wingdings;}
 @list l42:level4
 	{mso-level-number-format:bullet;
-	mso-level-text:•;
-	mso-level-tab-stop:144.0pt;
+	mso-level-text:;
+	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Arial",sans-serif;
-	mso-bidi-font-family:"Times New Roman";}
+	font-family:Symbol;}
 @list l42:level5
 	{mso-level-number-format:bullet;
-	mso-level-text:•;
-	mso-level-tab-stop:180.0pt;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Arial",sans-serif;
-	mso-bidi-font-family:"Times New Roman";}
+	font-family:"Courier New";}
 @list l42:level6
 	{mso-level-number-format:bullet;
-	mso-level-text:•;
-	mso-level-tab-stop:216.0pt;
+	mso-level-text:;
+	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Arial",sans-serif;
-	mso-bidi-font-family:"Times New Roman";}
+	font-family:Wingdings;}
 @list l42:level7
 	{mso-level-number-format:bullet;
-	mso-level-text:•;
-	mso-level-tab-stop:252.0pt;
+	mso-level-text:;
+	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Arial",sans-serif;
-	mso-bidi-font-family:"Times New Roman";}
+	font-family:Symbol;}
 @list l42:level8
 	{mso-level-number-format:bullet;
-	mso-level-text:•;
-	mso-level-tab-stop:288.0pt;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Arial",sans-serif;
-	mso-bidi-font-family:"Times New Roman";}
+	font-family:"Courier New";}
 @list l42:level9
 	{mso-level-number-format:bullet;
-	mso-level-text:•;
-	mso-level-tab-stop:324.0pt;
+	mso-level-text:;
+	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Arial",sans-serif;
-	mso-bidi-font-family:"Times New Roman";}
+	font-family:Wingdings;}
 @list l43
-	{mso-list-id:1665401289;
+	{mso-list-id:1632706012;
 	mso-list-type:hybrid;
-	mso-list-template-ids:1500691356 134676495 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
+	mso-list-template-ids:-732918846 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
 @list l43:level1
-	{mso-level-tab-stop:none;
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;}
+	text-indent:-18.0pt;
+	font-family:Symbol;}
 @list l43:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
@@ -5198,85 +5192,89 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l44
-	{mso-list-id:1697584275;
+	{mso-list-id:1645045196;
 	mso-list-type:hybrid;
-	mso-list-template-ids:917291602 35410818 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
+	mso-list-template-ids:-3343776 -929103902 342682516 1126449124 1619962342 1569862658 -1241467472 -1797343548 -307232688 1561900488;}
 @list l44:level1
-	{mso-level-start-at:0;
-	mso-level-number-format:bullet;
-	mso-level-text:-;
-	mso-level-tab-stop:none;
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:36.0pt;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";}
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
 @list l44:level2
 	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
+	mso-level-text:•;
+	mso-level-tab-stop:72.0pt;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Courier New";}
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
 @list l44:level3
 	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
+	mso-level-text:•;
+	mso-level-tab-stop:108.0pt;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:Wingdings;}
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
 @list l44:level4
 	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
+	mso-level-text:•;
+	mso-level-tab-stop:144.0pt;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:Symbol;}
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
 @list l44:level5
 	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
+	mso-level-text:•;
+	mso-level-tab-stop:180.0pt;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Courier New";}
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
 @list l44:level6
 	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
+	mso-level-text:•;
+	mso-level-tab-stop:216.0pt;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:Wingdings;}
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
 @list l44:level7
 	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
+	mso-level-text:•;
+	mso-level-tab-stop:252.0pt;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:Symbol;}
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
 @list l44:level8
 	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
+	mso-level-text:•;
+	mso-level-tab-stop:288.0pt;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Courier New";}
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
 @list l44:level9
 	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
+	mso-level-text:•;
+	mso-level-tab-stop:324.0pt;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:Wingdings;}
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
 @list l45
-	{mso-list-id:1728991032;
+	{mso-list-id:1665401289;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-1799201994 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
+	mso-list-template-ids:1500691356 134676495 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
 @list l45:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:none;
+	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
+	text-indent:-18.0pt;}
 @list l45:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
@@ -5334,16 +5332,18 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l46
-	{mso-list-id:1729527404;
+	{mso-list-id:1697584275;
 	mso-list-type:hybrid;
-	mso-list-template-ids:1992063800 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
+	mso-list-template-ids:917291602 35410818 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
 @list l46:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:;
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:-;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:Symbol;}
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
 @list l46:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
@@ -5401,56 +5401,190 @@ div.WordSection3
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l47
+	{mso-list-id:1728991032;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1799201994 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
+@list l47:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l47:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l47:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l47:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l47:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l47:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l47:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l47:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l47:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l48
+	{mso-list-id:1729527404;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1992063800 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
+@list l48:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l48:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l48:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l48:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l48:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l48:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l48:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l48:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l48:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l49
 	{mso-list-id:1830906930;
 	mso-list-type:hybrid;
 	mso-list-template-ids:1489527670 65703058 134676505 134676507 134676495 134676505 134676507 134676495 134676505 134676507;}
-@list l47:level1
+@list l49:level1
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Times New Roman",serif;}
-@list l47:level2
+@list l49:level2
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l47:level3
+@list l49:level3
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
-@list l47:level4
+@list l49:level4
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l47:level5
+@list l49:level5
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l47:level6
+@list l49:level6
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
-@list l47:level7
+@list l49:level7
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l47:level8
+@list l49:level8
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
-@list l47:level9
+@list l49:level9
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
-@list l48
+@list l50
 	{mso-list-id:1838619542;
 	mso-list-template-ids:-464099486;}
-@list l48:level1
+@list l50:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:36.0pt;
@@ -5458,7 +5592,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
-@list l48:level2
+@list l50:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:72.0pt;
@@ -5467,7 +5601,7 @@ div.WordSection3
 	mso-ansi-font-size:10.0pt;
 	font-family:"Courier New";
 	mso-bidi-font-family:"Times New Roman";}
-@list l48:level3
+@list l50:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:108.0pt;
@@ -5475,7 +5609,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l48:level4
+@list l50:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:144.0pt;
@@ -5483,7 +5617,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l48:level5
+@list l50:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:180.0pt;
@@ -5491,7 +5625,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l48:level6
+@list l50:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:216.0pt;
@@ -5499,7 +5633,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l48:level7
+@list l50:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:252.0pt;
@@ -5507,7 +5641,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l48:level8
+@list l50:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:288.0pt;
@@ -5515,7 +5649,7 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l48:level9
+@list l50:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:324.0pt;
@@ -5523,134 +5657,134 @@ div.WordSection3
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l49
+@list l51
 	{mso-list-id:1992325152;
 	mso-list-type:hybrid;
 	mso-list-template-ids:2091136764 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
-@list l49:level1
+@list l51:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l49:level2
+@list l51:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l49:level3
+@list l51:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l49:level4
+@list l51:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l49:level5
+@list l51:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l49:level6
+@list l51:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l49:level7
+@list l51:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l49:level8
+@list l51:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l49:level9
+@list l51:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l50
+@list l52
 	{mso-list-id:2063212712;
 	mso-list-type:hybrid;
 	mso-list-template-ids:709239372 134676481 134676483 134676485 134676481 134676483 134676485 134676481 134676483 134676485;}
-@list l50:level1
+@list l52:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l50:level2
+@list l52:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l50:level3
+@list l52:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l50:level4
+@list l52:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l50:level5
+@list l52:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l50:level6
+@list l52:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l50:level7
+@list l52:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l50:level8
+@list l52:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l50:level9
+@list l52:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:;
 	mso-level-tab-stop:none;
@@ -8984,8 +9118,8 @@ style='mso-ansi-language:EN-US'>: Imagining an Academic Future in HTML</span></s
 style='mso-ansi-language:EN-US'><o:p></o:p></span></h1>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>I
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>I
 still remember the first time I tried to read a dense academic PDF on my phone.
 I pinched, zoomed, scrolled horizontally by accident, lost my place, and
 eventually gave up. The document felt like a caged animal, alive with ideas yet
@@ -8993,8 +9127,8 @@ trapped inside an unyielding frame designed for A4 paper. At the time, I did not
 question it. PDFs were “<i>how academia works</i>”. End of story.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Then
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Then
 came <a name="_Hlk215413622"><i>The Socially Aware Web</i> course</a>—and the
 story changed.<o:p></o:p></span></p>
 
@@ -9003,16 +9137,16 @@ EN-US'>The Course That Shifted My Perspective</span></a><span style='mso-ansi-la
 EN-US'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>From
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>From
 the very first lecture it became clear that the Web was never meant to be a
 glorified digital filing cabinet. Seeing the evolution of media from cave
 paintings to the first hypertext systems made me realize something surprising:
 every major leap in communication came from a shift in the medium, not just the
 message. McLuhan’s “<i>medium is the message</i>” hit differently when I saw
 the Web described as a <i>social machine </i></span><!--[if supportFields]><i><span
-style='font-size:12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:
-EN-US'><span style='mso-element:field-begin'></span><span
+style='mso-bidi-font-size:11.0pt;line-height:150%;mso-ansi-language:EN-US;
+mso-fareast-language:EN-US'><span style='mso-element:field-begin'></span><span
 style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
 {&quot;citationID&quot;:&quot;BPSHbnc8&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;(McLuhan
 et al., 1967)&quot;,&quot;plainCitation&quot;:&quot;(McLuhan et al., 1967)&quot;,&quot;noteIndex&quot;:0},&quot;citationItems&quot;:[{&quot;id&quot;:949,&quot;uris&quot;:[&quot;http://zotero.org/users/local/lQlIqKZ4/items/I3NUF2W8&quot;],&quot;itemData&quot;:{&quot;id&quot;:949,&quot;type&quot;:&quot;motion_picture&quot;,&quot;abstract&quot;:&quot;Issued
@@ -9030,68 +9164,69 @@ McLuhan&quot;,&quot;URL&quot;:&quot;http://archive.org/details/thisismarshallmcl
 Broadcasting Company&quot;},{&quot;literal&quot;:&quot;McGraw-Hill Book
 Company&quot;}],&quot;accessed&quot;:{&quot;date-parts&quot;:[[&quot;2025&quot;,11,30]]},&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;1967&quot;]]}}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
 <span style='mso-element:field-separator'></span></span></i><![endif]--><span
-style='font-size:12.0pt;line-height:150%;mso-ansi-language:EN-US'>(McLuhan et
-al., 1967)</span><!--[if supportFields]><i><span style='font-size:12.0pt;
-line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'><span
+style='mso-bidi-font-size:11.0pt;line-height:150%;mso-ansi-language:EN-US'>(McLuhan
+et al., 1967)</span><!--[if supportFields]><i><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'><span
 style='mso-element:field-end'></span></span></i><![endif]--><span
-style='font-size:12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:
-EN-US'>. It dawned on me that academic PDFs are relics of the printing age
-awkwardly transplanted into a digital environment. Meanwhile, the Web, with its
-open standards and universal access, is a thriving ecosystem waiting for
-academia to catch up.<o:p></o:p></span></p>
+style='mso-bidi-font-size:11.0pt;line-height:150%;mso-ansi-language:EN-US;
+mso-fareast-language:EN-US'>. It dawned on me that academic PDFs are relics of
+the printing age awkwardly transplanted into a digital environment. Meanwhile,
+the Web, with its open standards and universal access, is a thriving ecosystem
+waiting for academia to catch up.<o:p></o:p></span></p>
 
 <h2 style='mso-list:none'><a name="_Toc215416358"><span style='mso-ansi-language:
 EN-US'>My Frustration with PDFs (and Proprietary Tools)</span></a><span
 style='mso-ansi-language:EN-US'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>I
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>I
 began thinking about my own experiences:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
 -17.85pt;line-height:150%;mso-list:l17 level1 lfo54;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:150%;font-family:
 Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
 EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Downloading a 50 MB PDF
-just to read a 3-page methods section.<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='mso-bidi-font-size:11.0pt;
+line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Downloading
+a 50 MB PDF just to read a 3-page methods section.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
 -17.85pt;line-height:150%;mso-list:l17 level1 lfo54;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:150%;font-family:
 Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
 EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Searching within a document
-only to find that the text was <span class=GramE>actually an</span> image.<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='mso-bidi-font-size:11.0pt;
+line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Searching
+within a document only to find that the text was <span class=GramE>actually an</span>
+image.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
 -17.85pt;line-height:150%;mso-list:l17 level1 lfo54;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:150%;font-family:
 Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
 EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Trying to copy a paragraph
-and getting broken line breaks and numbering.<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='mso-bidi-font-size:11.0pt;
+line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Trying to
+copy a paragraph and getting broken line breaks and numbering.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
 -17.85pt;line-height:150%;mso-list:l17 level1 lfo54;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:150%;font-family:
 Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
 EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Struggling to navigate
-using a screen reader in a volunteer accessibility project.<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='mso-bidi-font-size:11.0pt;
+line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Struggling
+to navigate using a screen reader in a volunteer accessibility project.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Every
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Every
 one of those frustrations mapped directly onto a problem the course materials
 discussed: lack of interoperability, accessibility failures, and reliance on
 proprietary ecosystems. PDFs freeze content in place. They privilege layout
@@ -9103,8 +9238,8 @@ EN-US'>Experiencing HTML as a Living Document</span></a><span style='mso-ansi-la
 EN-US'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>During
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>During
 the course, when I opened <i>The Socially Aware Web</i> course slides in HTML,
 something clicked. They were not just <span class=GramE>slides,</span> they
 were documents built to be explored. I could link to specific sections, access
@@ -9115,33 +9250,34 @@ our papers were designed in the same way, with <span class=SpellE>interaktive</s
 graphs instead of static screenshots, fine-grained annotations à la <span
 class=SpellE>dokieli</span>, machine-readable metadata integrated directly into
 the document, and live references that update automatically when new versions
-become available </span><!--[if supportFields]><span style='font-size:12.0pt;
-line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'><span
+become available </span><!--[if supportFields]><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'><span
 style='mso-element:field-begin'></span><span
 style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
 {&quot;citationID&quot;:&quot;1IeirzBA&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;(Capadisli,
 n.d.)&quot;,&quot;plainCitation&quot;:&quot;(Capadisli, n.d.)&quot;,&quot;noteIndex&quot;:0},&quot;citationItems&quot;:[{&quot;id&quot;:950,&quot;uris&quot;:[&quot;http://zotero.org/users/local/lQlIqKZ4/items/FBLHLGMM&quot;],&quot;itemData&quot;:{&quot;id&quot;:950,&quot;type&quot;:&quot;report&quot;,&quot;title&quot;:&quot;dokieli&quot;,&quot;URL&quot;:&quot;https://dokie.li/&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Capadisli&quot;,&quot;given&quot;:&quot;Sarven&quot;}],&quot;accessed&quot;:{&quot;date-parts&quot;:[[&quot;2025&quot;,11,30]]}}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
 <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='font-size:12.0pt;line-height:150%;mso-ansi-language:EN-US'>(Capadisli,
-n.d.)</span><!--[if supportFields]><span style='font-size:12.0pt;line-height:
-150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'><span
-style='mso-element:field-end'></span></span><![endif]--><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>.
+style='mso-bidi-font-size:11.0pt;line-height:150%;mso-ansi-language:EN-US'>(Capadisli,
+n.d.)</span><!--[if supportFields]><span style='mso-bidi-font-size:11.0pt;
+line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'><span
+style='mso-element:field-end'></span></span><![endif]--><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>.
 Even readers would benefit from being able to switch languages at the interface
 level, thanks to built-in internationalization support. Suddenly, the idea of
 submitting work as HTML did not feel like rebellion</span><span
-style='mso-ansi-language:EN-US'> </span><a name="_Hlk215413240"><span
-style='font-size:12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:
-EN-US'>–</span></a><span style='font-size:12.0pt;line-height:150%;mso-ansi-language:
-EN-US;mso-fareast-language:EN-US'> it felt like realism.<o:p></o:p></span></p>
+style='mso-bidi-font-size:11.0pt;line-height:150%;mso-ansi-language:EN-US'> </span><a
+name="_Hlk215413240"><span style='mso-bidi-font-size:11.0pt;line-height:150%;
+mso-ansi-language:EN-US;mso-fareast-language:EN-US'>–</span></a><span
+style='mso-bidi-font-size:11.0pt;line-height:150%;mso-ansi-language:EN-US;
+mso-fareast-language:EN-US'> it felt like realism.<o:p></o:p></span></p>
 
 <h2 style='mso-list:none'><a name="_Toc215416360"><span style='mso-ansi-language:
 EN-US'>Accessibility as a Moral Imperative</span></a><span style='mso-ansi-language:
 EN-US'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>One
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>One
 lecture moment stayed with me: the reminder that “<i>the Web is for all people</i>”.
 That sentence took on even greater significance when I began thinking about
 fictive individuals during the course. Let us imagine two students: Alex, who
@@ -9159,20 +9295,20 @@ and responsive layouts. When academic content is presented this way, it says:
 You matter. Your access matters. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Reflecting
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Reflecting
 on this made something crystal clear: <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><b><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>If
+margin-left:0cm;text-align:justify;line-height:150%'><b><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>If
 we choose a format that excludes people, we are responsible for the exclusion.</span></b><span
-style='font-size:12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:
-EN-US'><o:p></o:p></span></p>
+style='mso-bidi-font-size:11.0pt;line-height:150%;mso-ansi-language:EN-US;
+mso-fareast-language:EN-US'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Neglecting
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Neglecting
 accessibility is not a neutral act – it is an academic version of building
 stairs where a ramp should be.<o:p></o:p></span></p>
 
@@ -9181,75 +9317,66 @@ EN-US'>The Ethical Dimension: Control, Centralization, and Agency</span></a><spa
 style='mso-ansi-language:EN-US'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>The
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>The
 course delved deep into governance, centralization risks, and the erosion of
 user agency. It made me realize that academic publishing’s dependence on PDFs
 and proprietary platforms is not just inconvenient<a name="_Hlk215413454"> – </a>it
 is political.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>When
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>When
 a paper lives as a PDF:<o:p></o:p></span></p>
 
-<ul style='margin-top:0cm' type=disc>
- <li class=MsoNormal style='margin-top:5.0pt;margin-bottom:5.0pt;text-align:
-     justify;line-height:150%;mso-list:l34 level1 lfo56;tab-stops:list 36.0pt'><span
-     style='font-size:12.0pt;line-height:150%;mso-ansi-language:EN-US;
-     mso-fareast-language:EN-US'>It is locked into a single representation.<o:p></o:p></span></li>
-</ul>
+<p class=MsoListParagraphCxSpFirst style='margin-top:5.0pt;margin-right:0cm;
+margin-bottom:5.0pt;margin-left:36.0pt;mso-add-space:auto;text-indent:-18.0pt;
+mso-list:l21 level1 lfo69'><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
+EN-US'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-family:"Times New Roman",serif;
+mso-ansi-language:EN-US'>It is locked into a single representation.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
--17.85pt;line-height:150%;mso-list:l34 level1 lfo56;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l21 level1 lfo69'><![if !supportLists]><span
+style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>It often sits behind
-paywalls or platform restrictions.<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='font-family:"Times New Roman",serif;
+mso-ansi-language:EN-US'>It often sits behind paywalls or platform
+restrictions.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
--17.85pt;line-height:150%;mso-list:l34 level1 lfo56;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l21 level1 lfo69'><![if !supportLists]><span
+style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Its structure is opaque to
-search engines and assistive tech.<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='font-family:"Times New Roman",serif;
+mso-ansi-language:EN-US'>Its structure is opaque to search engines and
+assistive tech.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
--17.85pt;line-height:150%;mso-list:l34 level1 lfo56;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l21 level1 lfo69'><![if !supportLists]><span
+style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>It cannot participate fully
-in linked data ecosystems.<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='font-family:"Times New Roman",serif;
+mso-ansi-language:EN-US'>It cannot participate fully in linked data ecosystems.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
--17.85pt;line-height:150%;mso-list:l34 level1 lfo56;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
+<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l21 level1 lfo69'><![if !supportLists]><span
+style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>It reinforces power
-structures in academic publishing.<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='font-family:"Times New Roman",serif;
+mso-ansi-language:EN-US'>It reinforces power structures in academic publishing.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>HTML,
-by contrast, supports self-publishing and decentralization. It empowers scholars
-to own their work, host it on their own domains, and contribute to the global
-knowledge commons.<o:p></o:p></span></p>
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>HTML,
+by contrast, supports self-publishing and decentralization. It empowers
+scholars to own their work, host it on their own domains, and contribute to the
+global knowledge commons.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>I
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>I
 found myself imagining a world where every researcher maintains a small “<i>digital
 garden</i>” of their papers – interlinked, annotated, remixable, <span
 class=SpellE>queryable</span>. A world where academic publishing looks less
@@ -9260,13 +9387,13 @@ EN-US'>Imagining a Scientific Future in HTML</span></a><span style='mso-ansi-lan
 EN-US'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Let
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Let
 me paint the picture I now carry with me:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>You
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>You
 publish your research on your own website as an HTML document. It includes a
 live dataset, interactive visualizations, and annotations from colleagues. A
 student halfway across the world reads it on their phone, perfectly rendered.
@@ -9274,22 +9401,22 @@ They highlight a paragraph and add a public annotation via a Web-standard
 protocol.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>A
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>A
 week later, someone in another country forked your dataset, added new entries,
 and linked your analysis to theirs using RDF. A search engine indexes both the
 document and the data structure, making it discoverable by topic and
 methodology <a name="_Hlk215413552">–</a> not just keywords.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Your
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Your
 work does not sit in a drawer. It lives on the Web, woven into the fabric of
 global knowledge.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>This
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>This
 is not science fiction. The technologies already exist. What is missing is
 cultural adoption.<o:p></o:p></span></p>
 
@@ -9298,92 +9425,92 @@ EN-US'>From Reflection to Commitment</span></a><span style='mso-ansi-language:
 EN-US'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>By
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>By
 the end of the course, I found myself returning again and again to one idea:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Choosing
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Choosing
 HTML is choosing the future of scholarship.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>It
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>It
 is a decision grounded in:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
 -17.85pt;line-height:150%;mso-list:l11 level1 lfo57;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:150%;font-family:
 Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
 EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>accessibility<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='mso-bidi-font-size:11.0pt;
+line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>accessibility<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
 -17.85pt;line-height:150%;mso-list:l11 level1 lfo57;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:150%;font-family:
 Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
 EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>transparency<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='mso-bidi-font-size:11.0pt;
+line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>transparency<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
 -17.85pt;line-height:150%;mso-list:l11 level1 lfo57;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:150%;font-family:
 Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
 EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>interoperability<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='mso-bidi-font-size:11.0pt;
+line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>interoperability<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
 -17.85pt;line-height:150%;mso-list:l11 level1 lfo57;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:150%;font-family:
 Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
 EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>ethics<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='mso-bidi-font-size:11.0pt;
+line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>ethics<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
 -17.85pt;line-height:150%;mso-list:l11 level1 lfo57;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:150%;font-family:
 Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
 EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>sustainability<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='mso-bidi-font-size:11.0pt;
+line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>sustainability<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
 -17.85pt;line-height:150%;mso-list:l11 level1 lfo57;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:150%;font-family:
 Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
 EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>decentralization<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='mso-bidi-font-size:11.0pt;
+line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>decentralization<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:35.7pt;text-align:justify;text-indent:
 -17.85pt;line-height:150%;mso-list:l11 level1 lfo57;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:150%;font-family:
 Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
 EN-US;mso-fareast-language:EN-US'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US'>durability<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='mso-bidi-font-size:11.0pt;
+line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>durability<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>It
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>It
 aligns with the Web’s design and with academic values: openness, verifiability,
 and shared progress.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Publishing
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Publishing
 as HTML no longer feels like an eccentric experiment. It feels like a
 responsibility.<o:p></o:p></span></p>
 
@@ -9392,40 +9519,41 @@ EN-US'>Conclusion: A Personal Turning Point</span></a><span style='mso-ansi-lang
 EN-US'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Writing
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Writing
 this reflection in HTML (as I intend to submit it) feels like participating,
 however modestly, in that future. For the first time, my academic work is not
 confined to a static page – it is living in the medium it was meant for.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>The
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>The
 course gave me more than technical knowledge. It gave me a new narrative: that
 the Web was built for documents like ours<a name="_Hlk215413713"> – </a>and
 that academia, when it embraces this medium, becomes more inclusive, more
 ethical, and more alive.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Maybe
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>Maybe
 someday we will look back at PDFs the way we look at the printing press on <i>The
 Socially Aware Web</i> course slides – an important chapter in history, but no
 longer the main story.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;
-margin-left:0cm;text-align:justify;line-height:150%'><span style='font-size:
-12.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>And
+margin-left:0cm;text-align:justify;line-height:150%'><span style='mso-bidi-font-size:
+11.0pt;line-height:150%;mso-ansi-language:EN-US;mso-fareast-language:EN-US'>And
 maybe, in that future, our scholarship will finally feel at home.<o:p></o:p></span></p>
 
-<span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:107%;
-font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><br
-clear=all style='mso-special-character:line-break;page-break-before:always'>
+<span style='font-size:11.0pt;line-height:107%;font-family:"Times New Roman",serif;
+mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
+page-break-before:always'>
 </span>
 
 <p class=MsoNormal style='margin-bottom:8.0pt;line-height:107%'><span
-style='mso-ansi-language:EN-US;mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p>
+style='mso-bidi-font-size:11.0pt;line-height:107%;mso-ansi-language:EN-US;
+mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p>
 
 <p class=berschrift1ohneNumm><a name="_Toc215416365"><span style='mso-ansi-language:
 EN-US'>References</span></a><span style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
@@ -9635,37 +9763,37 @@ style='font-size:11.0pt;line-height:120%;font-family:"Times New Roman",serif'><s
 style='mso-spacerun:yes'> </span>“I hereby declare, <o:p></o:p></span></p>
 
 <p class=Default style='margin-left:36.0pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo68'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:120%;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>•<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo70'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:120%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-size:11.0pt;line-height:120%;
 font-family:"Times New Roman",serif'>that I have written this thesis
 independently, <o:p></o:p></span></p>
 
 <p class=Default style='margin-left:36.0pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo68'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:120%;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>•<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo70'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:120%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-size:11.0pt;line-height:120%;
 font-family:"Times New Roman",serif'>that I have written the thesis using only
 the aids specified in the <span class=GramE>index;</span> <o:p></o:p></span></p>
 
 <p class=Default style='margin-left:36.0pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo68'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:120%;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>•<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo70'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:120%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-size:11.0pt;line-height:120%;
 font-family:"Times New Roman",serif'>that all parts of the thesis produced with
 the help of aids have been <span class=GramE>declared;</span> <o:p></o:p></span></p>
 
 <p class=Default style='margin-left:36.0pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo68'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:120%;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>•<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo70'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:120%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-size:11.0pt;line-height:120%;
 font-family:"Times New Roman",serif'>that I have handled both input and output
 responsibly when using AI. I confirm that I have therefore only read in public
@@ -9677,30 +9805,30 @@ copyright law or scientific misconduct (e.g. plagiarism) have also occurred
 un-intentionally; <o:p></o:p></span></p>
 
 <p class=Default style='margin-left:36.0pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo68'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:120%;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>•<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo70'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:120%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-size:11.0pt;line-height:120%;
 font-family:"Times New Roman",serif'>that I have mentioned all sources used and
 cited them correctly according to established aca-demic citation <span
 class=GramE>rules;</span> <o:p></o:p></span></p>
 
 <p class=Default style='margin-left:36.0pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo68'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:120%;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>•<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo70'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:120%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-size:11.0pt;line-height:120%;
 font-family:"Times New Roman",serif'>that I have acquired all immaterial rights
 to any materials I may have used, such as images or graphics, or that these
 materials were created by <span class=GramE>me;</span> <o:p></o:p></span></p>
 
 <p class=Default style='margin-left:36.0pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo68'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:120%;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>•<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo70'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:120%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-size:11.0pt;line-height:120%;
 font-family:"Times New Roman",serif'>that the topic, the thesis or parts of it
 have not already been the object of any work or <span class=SpellE>examina-tion</span>
@@ -9709,20 +9837,20 @@ member in ad-<span class=SpellE>vance</span> and is stated as such in the <span
 class=GramE>thesis;</span> <o:p></o:p></span></p>
 
 <p class=Default style='margin-left:36.0pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo68'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:120%;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>•<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo70'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:120%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-size:11.0pt;line-height:120%;
 font-family:"Times New Roman",serif'>that I am aware of the legal provisions
 regarding the publication and dissemination of parts or the entire thesis and
 that I comply with them <span class=GramE>accordingly;</span> <o:p></o:p></span></p>
 
 <p class=Default style='margin-left:36.0pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo68'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:120%;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>•<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo70'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:120%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-size:11.0pt;line-height:120%;
 font-family:"Times New Roman",serif'>that I am aware that my thesis can be
 electronically checked for plagiarism and for third-party authorship of human
@@ -9733,10 +9861,10 @@ class=SpellE>administra-tive</span> actions; <o:p></o:p></span></p>
 
 <p class=Default style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;
 margin-left:36.0pt;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo68'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:120%;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>•<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+text-indent:-18.0pt;line-height:120%;mso-list:l38 level1 lfo70'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:120%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-size:11.0pt;line-height:120%;
 font-family:"Times New Roman",serif'>that I am aware that the University will
 prosecute a violation of this Declaration of Authorship and that disciplinary
